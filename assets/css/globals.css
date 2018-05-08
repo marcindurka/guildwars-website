@@ -1,0 +1,22 @@
+.site{
+    margin-left:auto;
+    margin-right:auto;
+    max-width:1170px;
+    display:block;
+    clear:both;
+}
+a{
+    color:#ffffff;
+    text-decoration:none;   
+}
+a:hover{
+    color:#CAA715;
+    transition: 0.5s;
+}
+.current-page{
+     color:#CAA715;
+}
+.center {
+    margin-left:auto;
+    margin-right:auto;
+}
